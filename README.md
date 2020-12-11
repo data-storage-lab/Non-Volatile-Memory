@@ -1,6 +1,5 @@
 # Non-Volatile Memory
-This repo lists papers related to evaluating Non-Volatile Memory systems. The papers are sorted based on year published.
-
+In recent times non-volatile Memory technologies offering low latency storage medium. The papers listed below evaluate new NVMs and provide a guide to understanding these new devices.
 
 - [FairHym: Improving Inter-Process Fairnesson Hybrid Memory Systems](https://ieeexplore.ieee.org/abstract/document/9188184)(NVMSA '20)
 - [The Analysis of Inter-Process Interferenceon a Hybrid Memory System](https://dl.acm.org/doi/pdf/10.1145/3373271.3373272?casa_token=ID5euA57qncAAAAA:3ZBdIwtSdgP4rCA_rjU6PlfnKqY558NFOuiCZm_iYAUyYgx4RQhflV41MdBauBkqJnMNUmTMjR3AGA)(HPCAsia '20)
