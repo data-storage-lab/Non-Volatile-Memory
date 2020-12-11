@@ -1,5 +1,5 @@
 # Non-Volatile Memory
-This repo lists papers related Non-Volatile Memory systems. The papers are sorted based on year published.
+This repo lists papers related to evaluating Non-Volatile Memory systems. The papers are sorted based on year published.
 
 
 1. [FairHym: Improving Inter-Process Fairnesson Hybrid Memory Systems](https://ieeexplore.ieee.org/abstract/document/9188184)(NVMSA '20)
