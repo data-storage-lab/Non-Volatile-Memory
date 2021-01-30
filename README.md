@@ -1,6 +1,7 @@
 # Non-Volatile Memory
 In recent times non-volatile Memory technologies offering low latency storage medium. The papers listed below evaluate new NVMs and provide a guide to understanding these new devices.
 
+- [Characterizing and Modeling Non-Volatile Memory Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9251957&casa_token=jkYxsqWuaRYAAAAA:SYvBR6-7QVZdrmIn-iQgU9T7BCjhM_kELtavR4qQVOnoIMfTd0bYYb_p493OnHACml1Yuvk&tag=1) (MICRO '20)
 - [Cross-Failure Bug Detection in Persistent Memory Programs](https://www.sihangliu.com/docs/liu_asplos20.pdf) (ASPLOS'20)
 - [FairHym: Improving Inter-Process Fairnesson Hybrid Memory Systems](https://ieeexplore.ieee.org/abstract/document/9188184) (NVMSA '20)
 - [The Analysis of Inter-Process Interferenceon a Hybrid Memory System](https://dl.acm.org/doi/pdf/10.1145/3373271.3373272?casa_token=ID5euA57qncAAAAA:3ZBdIwtSdgP4rCA_rjU6PlfnKqY558NFOuiCZm_iYAUyYgx4RQhflV41MdBauBkqJnMNUmTMjR3AGA) (HPCAsia '20)
