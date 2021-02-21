@@ -15,3 +15,4 @@ In recent times non-volatile Memory technologies offering low latency storage me
     - [The Analysis of Inter-Process Interference on a Hybrid Memory System](https://dl.acm.org/doi/pdf/10.1145/3373271.3373272?casa_token=ID5euA57qncAAAAA:3ZBdIwtSdgP4rCA_rjU6PlfnKqY558NFOuiCZm_iYAUyYgx4RQhflV41MdBauBkqJnMNUmTMjR3AGA) (HPCAsia '20)
 - Other relevant works
     - [UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling](https://www.usenix.org/system/files/conference/fast18/fast18-xia.pdf) (FAST '18)
+    - [Thermostat: Application-Transparent Page Management for Two-Tiered Main Memory](https://web.eecs.umich.edu/~twenisch/papers/asplos17.pdf) (ASPLOS '17)
