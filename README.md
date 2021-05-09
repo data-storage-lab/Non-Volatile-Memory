@@ -9,6 +9,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
 - NVM Simulators
     - [Characterizing and Modeling Non-Volatile Memory Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9251957&casa_token=jkYxsqWuaRYAAAAA:SYvBR6-7QVZdrmIn-iQgU9T7BCjhM_kELtavR4qQVOnoIMfTd0bYYb_p493OnHACml1Yuvk&tag=1) (MICRO '20)
 - Crash-consistency & Bug detection for NVM systems
+    - [Jaaru: Efficiently Model Checking Persistent Memory Programs](https://web.cs.ucla.edu/~harryxu/papers/jaaru-asplos21.pdf) (ASPLOS'21)
     - [PMFuzz: Test Case Generation for Persistent Memory Programs](https://asplos-conference.org/abstracts/asplos21-paper8-extended_abstract.pdf) (ASPLOS'21)
        This is an extended abstract, update the link once the paper is available
     - [Cross-Failure Bug Detection in Persistent Memory Programs](https://www.sihangliu.com/docs/liu_asplos20.pdf) (ASPLOS'20)
