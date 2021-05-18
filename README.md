@@ -14,6 +14,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
        This is an extended abstract, update the link once the paper is available
     - [Cross-Failure Bug Detection in Persistent Memory Programs](https://www.sihangliu.com/docs/liu_asplos20.pdf) (ASPLOS'20)
     - [Agamotto: How Persistent is your Persistent Memory Application?](https://www.usenix.org/system/files/osdi20-neal.pdf) (OSDI '20)
+    - [PMTest: A Fast and Flexible Testing Framework forPersistent Memory Programs](https://dl.acm.org/doi/pdf/10.1145/3297858.3304015) (ASPLOS'19)
 - Hybrid Memory Systems
     - [FairHym: Improving Inter-Process Fairnesson Hybrid Memory Systems](https://ieeexplore.ieee.org/abstract/document/9188184) (NVMSA '20)
     - [The Analysis of Inter-Process Interference on a Hybrid Memory System](https://dl.acm.org/doi/pdf/10.1145/3373271.3373272?casa_token=ID5euA57qncAAAAA:3ZBdIwtSdgP4rCA_rjU6PlfnKqY558NFOuiCZm_iYAUyYgx4RQhflV41MdBauBkqJnMNUmTMjR3AGA) (HPCAsia '20)
