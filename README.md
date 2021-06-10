@@ -23,4 +23,4 @@ In recent times non-volatile Memory technologies offering low latency storage me
     - [Thermostat: Application-Transparent Page Management for Two-Tiered Main Memory](https://web.eecs.umich.edu/~twenisch/papers/asplos17.pdf) (ASPLOS '17)
 - Specifications
     - [NVDIMM Namespace Specifications](https://pmem.io/documents/NVDIMM_Namespace_Spec.pdf)
-    - [Programming Persistent Memory](https://git.ece.iastate.edu/data-storage-lab/dsl-techhub/om_catalog/-/blob/master/programming_persistent_memory.pdf)
+    - [Programming Persistent Memory](https://library.oapen.org/handle/20.500.12657/22836)
