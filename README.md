@@ -7,7 +7,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
     - [Single Machine Graph Analytics on Massive Datasets Using Intel Optane DC Persistent Memory](https://arxiv.org/pdf/1904.07162) (arXiv '19)
     - [Basic Performance Measurements of the Intel Optane DC Persistent Memory Module](https://arxiv.org/pdf/1903.05714) (arXiv '19)
 - NVM Simulators
-    - [Characterizing and Modeling Non-Volatile Memory Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9251957&casa_token=jkYxsqWuaRYAAAAA:SYvBR6-7QVZdrmIn-iQgU9T7BCjhM_kELtavR4qQVOnoIMfTd0bYYb_p493OnHACml1Yuvk&tag=1) (MICRO '20)
+    - [Characterizing and Modeling Non-Volatile Memory Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9251957) (MICRO '20)
 - Storage Applications Modified for NVDIMM Systems
     - [Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks](https://cseweb.ucsd.edu/~juk146/papers/ASPLOS2019-APP.pdf) (ASPLOS'19)
 - Crash-consistency & Bug detection for NVM systems
