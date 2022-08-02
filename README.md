@@ -1,6 +1,16 @@
 # Non-Volatile Memory
 In recent times non-volatile Memory technologies offering low latency storage medium. The papers listed below evaluate new NVMs and provide a guide to understanding these new devices.
 
+- Compute Express Link
+    - [Cache-Coherent Accelerators for Persistent Memory Crash Consistency](https://dl.acm.org/doi/pdf/10.1145/3538643.3539752) (HotStorage'22)
+- Computational Storage
+    - [Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs](https://www.usenix.org/system/files/fast22-kwon.pdf)(FAST'22)
+    - [FusionFS: Fusing I/O Operations using CISCOps in Firmware File Systems](https://www.usenix.org/system/files/fast22-zhang-jian.pdf)(FAST'22)
+    - [A Fast and Flexible Hardware-based Virtualization Mechanism for Computational Storage Devices](https://www.usenix.org/system/files/atc21-kwon.pdf)(USENIX ATC'21)
+    - [CrossFS: A Cross-layered Direct-Access File System](https://www.usenix.org/system/files/osdi20-ren.pdf)(OSDI'20)
+    - [PolarDB Meets Computational Storage: Efficiently Support Analytical Workloads in Cloud-Native Relational Database](https://www.usenix.org/system/files/fast20-cao_wei.pdf)(FAST'20)
+    - [Azure Accelerated Networking: SmartNICs in the Public Cloud](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf)(NSDI'18)
+
 - Evaluation of Non-Volatile Memory Systems
     - [An Empirical Guide to the Behavior and Use of Scalable Persistent Memory](https://www.usenix.org/system/files/fast20-yang.pdf) (FAST '20)
     - [System Evaluation of Intel Optane Byte-Addressabke NVM](https://dl.acm.org/doi/pdf/10.1145/3357526.3357568) (MEMSYS '19)
