@@ -3,7 +3,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
 
 - Compute Express Link
     - [Cache-Coherent Accelerators for Persistent Memory Crash Consistency](https://dl.acm.org/doi/pdf/10.1145/3538643.3539752) (HotStorage'22)
-- Computational Storage
+- Computational Storage Devices
     - [Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs](https://www.usenix.org/system/files/fast22-kwon.pdf)(FAST'22)
     - [FusionFS: Fusing I/O Operations using CISCOps in Firmware File Systems](https://www.usenix.org/system/files/fast22-zhang-jian.pdf)(FAST'22)
     - [A Fast and Flexible Hardware-based Virtualization Mechanism for Computational Storage Devices](https://www.usenix.org/system/files/atc21-kwon.pdf)(USENIX ATC'21)
