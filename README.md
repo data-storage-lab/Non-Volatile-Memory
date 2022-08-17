@@ -8,6 +8,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
     - [Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs](https://www.usenix.org/system/files/fast22-kwon.pdf)(FAST'22)
     - [FusionFS: Fusing I/O Operations using CISCOps in Firmware File Systems](https://www.usenix.org/system/files/fast22-zhang-jian.pdf)(FAST'22)
     - [Understanding the Performance Characteristics of Computational Storage Drives: A Case Study with SmartSSD](https://www.mdpi.com/2079-9292/10/21/2617) (MDPI'21)
+    - [KVRAID: high performance, write efficient, update friendly erasure coding scheme for KV-SSDs](https://dl.acm.org/doi/pdf/10.1145/3456727.3463781?casa_token=VdzLOeNageMAAAAA:mbw[%E2%80%A6]9MXZ50m7oInH7SukC6Lj32StY888RnAD8g7IPuJPB-Pzl9U0a9Ni1yQlL6ZXO0d) (SYSTOR'21)
     - [A Fast and Flexible Hardware-based Virtualization Mechanism for Computational Storage Devices](https://www.usenix.org/system/files/atc21-kwon.pdf)(USENIX ATC'21)
     - [CrossFS: A Cross-layered Direct-Access File System](https://www.usenix.org/system/files/osdi20-ren.pdf)(OSDI'20)
     - [PolarDB Meets Computational Storage: Efficiently Support Analytical Workloads in Cloud-Native Relational Database](https://www.usenix.org/system/files/fast20-cao_wei.pdf)(FAST'20)
