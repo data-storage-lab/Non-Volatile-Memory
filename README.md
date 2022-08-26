@@ -16,6 +16,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
     - [PolarDB Meets Computational Storage: Efficiently Support Analytical Workloads in Cloud-Native Relational Database](https://www.usenix.org/system/files/fast20-cao_wei.pdf)(FAST'20)
     - [Hybrid Data Reliability for Emerging Key-Value Storage Devices](https://www.usenix.org/system/files/fast20-pitchumani.pdf) (FAST'20)
     - [Azure Accelerated Networking: SmartNICs in the Public Cloud](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf)(NSDI'18)
+    - [Enabling cost-effective data processing with smart SSD](https://ieeexplore.ieee.org/document/6558444)(MSST'13)
 
 - Evaluation of Non-Volatile Memory Systems
     - [An Empirical Guide to the Behavior and Use of Scalable Persistent Memory](https://www.usenix.org/system/files/fast20-yang.pdf) (FAST '20)
