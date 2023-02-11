@@ -1,9 +1,9 @@
 # Non-Volatile Memory
 In recent times non-volatile Memory technologies offering low latency storage medium. The papers listed below evaluate new NVMs and provide a guide to understanding these new devices.
 
-- Compute Express Link
+- Compute Express Link (CXL)
     - [Cache-Coherent Accelerators for Persistent Memory Crash Consistency](https://dl.acm.org/doi/pdf/10.1145/3538643.3539752) (HotStorage'22)
-- Computational Storage Devices
+- Computational Storage Devices (CSD)
     - [Direct Access, High-Performance Memory Disaggregation with DirectCXL](https://www.usenix.org/system/files/atc22-gouk.pdf) (USENIX ATC'22)
     - [Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs](https://www.usenix.org/system/files/fast22-kwon.pdf)(FAST'22)
     - [FusionFS: Fusing I/O Operations using CISCOps in Firmware File Systems](https://www.usenix.org/system/files/fast22-zhang-jian.pdf)(FAST'22)
