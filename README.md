@@ -40,6 +40,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
 - Other relevant works
     - [UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling](https://www.usenix.org/system/files/conference/fast18/fast18-xia.pdf) (FAST '18)
     - [Thermostat: Application-Transparent Page Management for Two-Tiered Main Memory](https://web.eecs.umich.edu/~twenisch/papers/asplos17.pdf) (ASPLOS '17)
+    - [SSD-Assisted Ransomware Detection and Data Recovery Techniques](https://ieeexplore.ieee.org/document/9146350) (IEEE Transactions on Computers)
 - Specifications
     - [NVDIMM Namespace Specifications](https://pmem.io/documents/NVDIMM_Namespace_Spec.pdf)
     - [Programming Persistent Memory](https://library.oapen.org/handle/20.500.12657/22836)
