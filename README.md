@@ -18,6 +18,8 @@ In recent times non-volatile Memory technologies offering low latency storage me
     - [Hybrid Data Reliability for Emerging Key-Value Storage Devices](https://www.usenix.org/system/files/fast20-pitchumani.pdf) (FAST'20)
     - [Azure Accelerated Networking: SmartNICs in the Public Cloud](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf)(NSDI'18)
     - [Enabling cost-effective data processing with smart SSD](https://ieeexplore.ieee.org/document/6558444)(MSST'13)
+    - [DONGLE: Direct FPGA-Orchestrated NVMe Storage for HLS](https://dl.acm.org/doi/10.1145/3543622.3573185)(FPGA'23)
+    - [SSD-Assisted Ransomware Detection and Data Recovery Techniques](https://ieeexplore.ieee.org/document/9146350) (IEEE Transactions on Computers)
 
 - Evaluation of Non-Volatile Memory Systems
     - [An Empirical Guide to the Behavior and Use of Scalable Persistent Memory](https://www.usenix.org/system/files/fast20-yang.pdf) (FAST '20)
@@ -40,7 +42,6 @@ In recent times non-volatile Memory technologies offering low latency storage me
 - Other relevant works
     - [UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling](https://www.usenix.org/system/files/conference/fast18/fast18-xia.pdf) (FAST '18)
     - [Thermostat: Application-Transparent Page Management for Two-Tiered Main Memory](https://web.eecs.umich.edu/~twenisch/papers/asplos17.pdf) (ASPLOS '17)
-    - [SSD-Assisted Ransomware Detection and Data Recovery Techniques](https://ieeexplore.ieee.org/document/9146350) (IEEE Transactions on Computers)
 - Specifications
     - [NVDIMM Namespace Specifications](https://pmem.io/documents/NVDIMM_Namespace_Spec.pdf)
     - [Programming Persistent Memory](https://library.oapen.org/handle/20.500.12657/22836)
