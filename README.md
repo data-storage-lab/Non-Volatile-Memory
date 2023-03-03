@@ -20,6 +20,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
     - [Enabling cost-effective data processing with smart SSD](https://ieeexplore.ieee.org/document/6558444)(MSST'13)
     - [DONGLE: Direct FPGA-Orchestrated NVMe Storage for HLS](https://dl.acm.org/doi/10.1145/3543622.3573185)(FPGA'23)
     - [SSD-Assisted Ransomware Detection and Data Recovery Techniques](https://ieeexplore.ieee.org/document/9146350) (IEEE Transactions on Computers)
+    - Talk: [Computational Storage - Jamon Bowen Xilinx (SDC'20)] (https://www.snia.org/sites/default/files/SDCEMEA/2020/4%20-%20Jamon%20Bowen%20Xilinx%20-%20Computational%20storage%20.pdf)
 
 - Evaluation of Non-Volatile Memory Systems
     - [An Empirical Guide to the Behavior and Use of Scalable Persistent Memory](https://www.usenix.org/system/files/fast20-yang.pdf) (FAST '20)
