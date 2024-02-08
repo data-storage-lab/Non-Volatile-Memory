@@ -5,6 +5,7 @@ In recent times non-volatile Memory technologies offering low latency storage me
     - [Cache-Coherent Accelerators for Persistent Memory Crash Consistency](https://dl.acm.org/doi/pdf/10.1145/3538643.3539752) (HotStorage'22)
     - [Pond: CXL-Based Memory Pooling Systems for Cloud Platforms](https://pages.cs.wisc.edu/~markhill/papers/asplos2023_pond.pdf) (ASPLOS'23)
 - Computational Storage Devices (CSD)
+    - [When F2FS Meets Compression-Based SSD!](https://dl.acm.org/doi/pdf/10.1145/3599691.3603402)(HotStorage'23)
     - [Direct Access, High-Performance Memory Disaggregation with DirectCXL](https://www.usenix.org/system/files/atc22-gouk.pdf) (USENIX ATC'22)
     - [Closing the B+-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression](https://www.usenix.org/system/files/fast22-qiao.pdf) (FAST'22)
     - [Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs](https://www.usenix.org/system/files/fast22-kwon.pdf)(FAST'22)
